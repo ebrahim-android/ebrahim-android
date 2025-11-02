@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ebrahim Santana  
 
-<img width="1002" height="403" alt="Ebrahim Banner" src="https://github.com/user-attachments/assets/fabfd057-59b9-4dec-9deb-e27a8bbc0c55" />
+<img width="1017" height="385" alt="image" src="https://github.com/user-attachments/assets/3fa55fc9-2842-4ee9-8a7b-663ef3ccab49" />
 
 ---
 
