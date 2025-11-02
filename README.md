@@ -1,5 +1,4 @@
 <div>
- <img width="50" height="75" alt="image" src="https://github.com/user-attachments/assets/cc3064c5-1de9-4df8-ba31-13c06ed8c724" />
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Hi+there+👋+I'm+Ebrahim+Santana;💻+Android+Developer" alt="Typing Text Effect" />
 </div>
 
