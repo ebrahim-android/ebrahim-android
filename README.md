@@ -1,5 +1,8 @@
-## Hi there 👋 I'm Ebrahim Santana  
+<div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Hi+there+👋+I'm+Ebrahim+Santana;💻+Android+Developer" alt="Typing Text Effect" />
+</div>
 
+<br>
 <img width="1017" height="385" alt="image" src="https://github.com/user-attachments/assets/3fa55fc9-2842-4ee9-8a7b-663ef3ccab49" />
 
 ---
