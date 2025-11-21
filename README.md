@@ -31,7 +31,7 @@ Currently mastering **Jetpack Compose** to design beautiful declarative UIs.
   
 | Languages | Architecture | Libraries | UI | Tools |
 |------------|---------------|------------|----|--------|
-| Kotlin | MVVM | Jetpack Components, Coroutines, Flow, Retrofit, Dagger/Hilt | XML, Jetpack Compose, ViewBinding | Git, GitHub, Android Studio, Postman |
+| Kotlin | MVVM, MVC | Jetpack Components, Coroutines, Flow, Retrofit, Dagger/Hilt | XML, Jetpack Compose, ViewBinding | Git, GitHub, Android Studio, Postman |
 
 </div>
 
