@@ -64,8 +64,6 @@ It displays real-time cryptocurrency market data with a clean and dynamic UI.
 
 ### 📊 GitHub Analytics
 
-### 📊 GitHub Analytics
-
 <div align="center">
 
   <!-- Stats principales -->
