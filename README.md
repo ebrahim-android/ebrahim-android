@@ -64,9 +64,22 @@ It displays real-time cryptocurrency market data with a clean and dynamic UI.
 
 ### 📊 GitHub Analytics
 
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ebrahim-android&show_icons=true&theme=transparent&hide_border=true&title_color=FFA500&icon_color=FFA500&cache_seconds=7200" alt="Estadísticas de GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahim-android&layout=compact&theme=transparent&hide_border=true&title_color=FFA500&cache_seconds=7200" alt="Lenguajes Principales" />
+
+  <!-- Stats principales -->
+  <img 
+       height="160" 
+       src="https://github-readme-stats-kappa-one-78.vercel.app/api?username=ebrahim-android&show_icons=true&theme=transparent&hide_border=true&title_color=FFA500&icon_color=FFA500"
+  />
+
+  <!-- Lenguajes más usados -->
+  <img 
+       height="160" 
+       src="https://github-readme-stats-kappa-one-78.vercel.app/api/top-langs/?username=ebrahim-android&layout=compact&theme=transparent&hide_border=true&title_color=FFA500"
+  />
+
 </div>
 
 ---
