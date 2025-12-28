@@ -52,10 +52,6 @@ It displays real-time cryptocurrency market data with a clean and dynamic UI.
   <img src="https://img.shields.io/badge/LinkedIn-Ebrahim%20Santana-blue?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/ebrahim-santana-75a188301/" />
 </a><br>
 
-<a href="https://github.com/ebrahim-android">
-  <img src="https://img.shields.io/badge/GitHub-ebrahim--android-black?logo=github&style=for-the-badge&link=https://github.com/ebrahim-android" />
-</a><br>
-
 <a href="mailto:ebrahimsantana35@gmail.com">
   <img src="https://img.shields.io/badge/Email-ebrahimsantana35@gmail.com-red?logo=gmail&style=for-the-badge" />
 </a>
