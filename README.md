@@ -27,54 +27,53 @@ Currently mastering **Jetpack Compose** to design beautiful declarative UIs.
 
 <table>
 <tr>
-<td align="left" width="200">
+<td width="200">
 
 ### Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<img src="https://skillicons.dev/icons?i=kotlin" />
 
 </td>
-<td align="left" width="200">
+
+<td width="200">
 
 ### Architecture
-MVVM<br>
-MVC
+<img src="https://skillicons.dev/icons?i=android" />
+<br>
+MVVM · MVC
 
 </td>
-<td align="left" width="260">
+
+<td width="260">
 
 ### Libraries
-![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-Coroutines<br>
-Flow<br>
-Retrofit
+<br>
+Jetpack · Hilt  
+Coroutines · Flow · Retrofit
 
 </td>
 </tr>
 
 <tr>
-<td align="left">
+<td>
 
 ### UI
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-
-XML<br>
-ViewBinding
+<img src="https://skillicons.dev/icons?i=compose,xml" />
+<br>
+Jetpack Compose · XML · ViewBinding
 
 </td>
-<td align="left" colspan="2">
+
+<td colspan="2">
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,androidstudio" />
 
 </td>
 </tr>
 </table>
 
 ---
+
 
 
 
