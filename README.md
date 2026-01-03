@@ -23,19 +23,60 @@ Currently mastering **Jetpack Compose** to design beautiful declarative UIs.
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-<div align="center">
-  
-💡 **Core Skills**
-  
-| Languages | Architecture | Libraries | UI | Tools |
-|------------|---------------|------------|----|--------|
-| Kotlin | MVVM, MVC | Jetpack Components, Coroutines, Flow, Retrofit, Dagger/Hilt | XML, Jetpack Compose, ViewBinding | Git, GitHub, Android Studio, Postman |
+<table>
+<tr>
+<td align="left" width="200">
 
-</div>
+### Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+</td>
+<td align="left" width="200">
+
+### Architecture
+MVVM<br>
+MVC
+
+</td>
+<td align="left" width="260">
+
+### Libraries
+![Android Jetpack](https://img.shields.io/badge/Android%20Jetpack-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+Coroutines<br>
+Flow<br>
+Retrofit
+
+</td>
+</tr>
+
+<tr>
+<td align="left">
+
+### UI
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+
+XML<br>
+ViewBinding
+
+</td>
+<td align="left" colspan="2">
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
+
+
 
 ### 💼 Featured Project
 **💱 Exchange Crypto App**  
