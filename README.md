@@ -1,5 +1,5 @@
 <div>
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&width=435&lines=Hi+there+👋+I'm+Ebrahim+Santana;💻+Android+Developer" alt="Typing Text Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA500&width=600&lines=Hi+there+👋+Im+Ebrahim+Santana;💻+Android+Developer+|+Kotlin+|+Clean+Architecture" alt="Typing Text Effect" />
 </div>
 
 <br>
@@ -11,7 +11,7 @@
 
 I'm a **passionate Android Developer** who loves building clean, modern, and high-performance mobile applications.  
 I focus on **scalable architecture**, **clean code**, and creating smooth user experiences.  
-Currently mastering **Jetpack Compose** to design beautiful declarative UIs.  
+Currently deepening my skills in Jetpack Compose to build modern, declarative UIs.
 
 ---
 
@@ -27,26 +27,29 @@ Currently mastering **Jetpack Compose** to design beautiful declarative UIs.
 
 <table>
 <tr>
-<td width="200">
+<td width="220" valign="top">
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=kotlin" />
+<br><br>
+Kotlin
 
 </td>
 
-<td width="200">
+<td width="220" valign="top">
 
 ### Architecture
 <img src="https://skillicons.dev/icons?i=android" />
-<br>
+<br><br>
 MVVM · MVC
 
 </td>
 
-<td width="260">
+<td width="280" valign="top">
 
 ### Libraries
-<br>
+<img src="https://skillicons.dev/icons?i=android" />
+<br><br>
 Jetpack · Hilt  
 Coroutines · Flow · Retrofit
 
@@ -54,19 +57,22 @@ Coroutines · Flow · Retrofit
 </tr>
 
 <tr>
-<td>
+<td valign="top">
 
 ### UI
 <img src="https://skillicons.dev/icons?i=compose,xml" />
-<br>
-Jetpack Compose · XML · ViewBinding
+<br><br>
+Jetpack Compose · XML  
+ViewBinding
 
 </td>
 
-<td colspan="2">
+<td colspan="2" valign="top">
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,androidstudio" />
+<br><br>
+Git · GitHub · Android Studio
 
 </td>
 </tr>
@@ -74,15 +80,19 @@ Jetpack Compose · XML · ViewBinding
 
 ---
 
+### 💼 Featured Project — Exchange Crypto App
 
+A **production-style Android application** built with **Kotlin** and modern Android architecture.  
+Designed to display **real-time cryptocurrency data** with a clean, responsive UI.
 
+**Key highlights:**
+- MVVM architecture with clear separation of concerns  
+- Retrofit + Coroutines for network operations  
+- Hilt for dependency injection  
+- Scalable and maintainable project structure  
 
-### 💼 Featured Project
-**💱 Exchange Crypto App**  
-A modern Android app built with **Kotlin**, **Retrofit**, and **Hilt**.  
-It displays real-time cryptocurrency market data with a clean and dynamic UI.  
+🔗 [View source code](https://github.com/ebrahim-android/exchange-crypto)
 
-📂 [View Repository](https://github.com/ebrahim-android/exchange-crypto)  
 
 ---
 
@@ -90,9 +100,7 @@ It displays real-time cryptocurrency market data with a clean and dynamic UI.
 <!-- Animated badges for social links -->
 <a href="https://www.linkedin.com/in/ebrahim-santana-75a188301/">
   <img src="https://img.shields.io/badge/LinkedIn-Ebrahim%20Santana-blue?logo=linkedin&style=for-the-badge&link=https://www.linkedin.com/in/ebrahim-santana-75a188301/" />
-</a><br>
-
-<a href="mailto:ebrahimsantana35@gmail.com">
+</a> <a href="mailto:ebrahimsantana35@gmail.com">
   <img src="https://img.shields.io/badge/Email-ebrahimsantana35@gmail.com-red?logo=gmail&style=for-the-badge" />
 </a>
 
