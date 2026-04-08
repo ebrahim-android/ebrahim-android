@@ -19,12 +19,25 @@
 </p>
 
 ### 🚀 About Me
-I'm a **passionate Android Developer** who loves building clean, modern, and high-performance mobile applications. I don't just write code; I design systems.
 
-- 📱 **Currently building:** [CalcX](https://github.com/ebrahim-android/CalcX), a pro-grade calculator with Jetpack Compose.
-- 🎓 **Focus:** Deepening my skills in **Jetpack Compose** and **Clean Architecture**.
-- 🧠 **Mindset:** Passionate about clean code, design patterns, and mobile performance.
-- 🌍 **Goal:** Open to remote and international opportunities (Focus: 🇩🇪 Germany).
+### 🚀 About Me
+
+<table border="0">
+  <tr>
+    <td width="75%" valign="top">
+      <p><i>"Power controls everything. And without strength, you cannot protect anything. Let alone yourself."</i> ⚔️</p>
+      <p>I am an <b>Android Engineer</b> motivated by precision and clean architecture. Just like Vergil masters the Yamato, I master Kotlin to create sharp, high-performance mobile solutions.</p>
+      <ul>
+        <li>📱 <b>Currently building:</b> <a href="https://github.com/ebrahim-android/CalcX">CalcX</a> (Scientific Calculator).</li>
+        <li>🎓 <b>Focus:</b> Deepening skills in <b>Jetpack Compose</b> and <b>Clean Architecture</b>.</li>
+        <li>🌍 <b>Goal:</b> Relocating to <b>Germany</b> 🇩🇪 for international opportunities.</li>
+      </ul>
+    </td>
+    <td width="25%" align="center">
+  <img src="[https://media1.tenor.com/m/On74X90uH_8AAAAC/vergil-devil-may-cry.gif](https://media1.tenor.com/m/1fVQ4c3by7YAAAAC/peta-farbar-petr-farbar.gif)" width="180px" style="border-radius: 15px; border: 2px solid #84A6D1;"/>
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -43,25 +56,24 @@ I'm a **passionate Android Developer** who loves building clean, modern, and hig
 ### 📱 Featured Projects
 
 #### 💎 [Exchange Crypto App](https://github.com/ebrahim-android/exchange-crypto)
-A **production-style Android application** built with **Kotlin** and modern Android architecture.
-- **Key highlights:** MVVM, Retrofit + Coroutines, Hilt (DI), and real-time data handling.
+- **Concept:** Production-style app for real-time crypto tracking.
+- **Tech:** MVVM, Retrofit, Coroutines, and Hilt.
 
 #### 🧮 [CalcX - Scientific Calculator](https://github.com/ebrahim-android/CalcX)
-Modern calculator built with **Jetpack Compose** focusing on high-precision logic and professional UI.
+- **Concept:** High-precision logic with a professional Compose UI.
+- **Tech:** Jetpack Compose & MVC Architecture.
 
 ---
 
-### 📊 My GitHub Life
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ebrahim-android&show_icons=true&theme=radical&hide_border=true&title_color=0077B5&icon_color=0077B5" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahim-android&layout=compact&theme=radical&hide_border=true&title_color=0077B5" width="45%" />
-</p> -->
+### 📊 Motivation Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-android&theme=radical&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1026&height=120&section=header&text=MOTIVATED%20DEVELOPER%20⚡&fontSize=40&animation=fadeIn&fontColor=84A6D1" width="100%" />
+</p>
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad."</i> — <b>Cory House</b>
