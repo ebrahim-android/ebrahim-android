@@ -52,10 +52,10 @@ Modern calculator built with **Jetpack Compose** focusing on high-precision logi
 ---
 
 ### 📊 My GitHub Life
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ebrahim-android&show_icons=true&theme=radical&hide_border=true&title_color=0077B5&icon_color=0077B5" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahim-android&layout=compact&theme=radical&hide_border=true&title_color=0077B5" width="45%" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-android&theme=radical&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="100%" />
