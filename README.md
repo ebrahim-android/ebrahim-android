@@ -1,15 +1,15 @@
-# <img src="https://media.giphy.com/media/hvRJCLzz8CXT357ob/giphy.gif" width="28px"> Ebrahim Santana | Android Engineer
+# <img src="https://media.giphy.com/media/hvRJCLzz8CXT357ob/giphy.gif" width="28px"> Ebrahim Santana | Android Software Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&width=600&lines=Hi+there+👋+Im+Ebrahim+Santana;💻+Android+Developer+|+Kotlin+|+Clean+Architecture;Building+the+future+of+mobile+experiences" alt="Typing Text Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84A6D1&width=600&lines=Motivation+is+the+key+to+perfection...;Specialized+in+Android+Engineering;Kotlin+Expert+|+Jetpack+Compose+Advocate" alt="Typing Text Effect" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Building%20with%20Purpose%20🚀&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A2B59&height=180&section=header&text=Building%20with%20Precision%20⚔️&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=84A6D1" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebrahim-android&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=ebrahim-android&color=84A6D1&style=for-the-badge&label=VISITORS" alt="views" />
   <a href="https://linkedin.com/in/ebrahim-santana-75a188301">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -18,63 +18,60 @@
   </a>
 </p>
 
-### 🚀 About Me
-
-### 🚀 About Me
-
+### 👤 Profile
 <table border="0">
   <tr>
     <td width="75%" valign="top">
-      <p><i>"Power controls everything. And without strength, you cannot protect anything. Let alone yourself."</i> ⚔️</p>
-      <p>I am an <b>Android Engineer</b> motivated by precision and clean architecture. Just like Vergil masters the Yamato, I master Kotlin to create sharp, high-performance mobile solutions.</p>
+      <p><i>"Power controls everything. And without strength, you cannot protect anything."</i> 🗡️</p>
+      <p>Focused on <b>Android Software Architecture</b>. I specialize in building robust, maintainable, and high-performance mobile systems using modern development patterns.</p>
       <ul>
-        <li>📱 <b>Currently building:</b> <a href="https://github.com/ebrahim-android/CalcX">CalcX</a> (Scientific Calculator).</li>
-        <li>🎓 <b>Focus:</b> Deepening skills in <b>Jetpack Compose</b> and <b>Clean Architecture</b>.</li>
-        <li>🌍 <b>Goal:</b> Relocating to <b>Germany</b> 🇩🇪 for international opportunities.</li>
+        <li>⚡ <b>Current Focus:</b> High-precision logic in <a href="https://github.com/ebrahim-android/CalcX">CalcX Project</a>.</li>
+        <li>🛡️ <b>Architecture:</b> Deeply committed to <b>Clean Architecture</b> & <b>SOLID</b> principles.</li>
+        <li>🌍 <b>Goal:</b> Open to remote and international opportunities.</li>
       </ul>
     </td>
     <td width="25%" align="center">
-  <img src="[https://media1.tenor.com/m/On74X90uH_8AAAAC/vergil-devil-may-cry.gif](https://media1.tenor.com/m/1fVQ4c3by7YAAAAC/peta-farbar-petr-farbar.gif)" width="180px" style="border-radius: 15px; border: 2px solid #84A6D1;"/>
-</td>
+      <img src="assets/vergil.gif" width="200px" style="border-radius: 15px; border: 2px solid #84A6D1; box-shadow: 0px 0px 15px rgba(132, 166, 209, 0.4);"/>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack
+### 🛡️ Tech Armory
 
-| Category | Skills & Tools |
+| Category | Mastery & Tools |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,java" /> |
-| **Architecture** | <img src="https://skillicons.dev/icons?i=android" /> `MVVM` `MVC` `Clean Architecture` |
-| **UI Frameworks** | <img src="https://skillicons.dev/icons?i=compose,xml" /> `ViewBinding` `Material Design` |
-| **Libraries** | `Retrofit` `Coroutines` `Flow` `Hilt` `JUnit` |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,androidstudio" /> |
+| **Foundations** | `MVVM` • `MVC` • `Clean Architecture` • `Modularization` |
+| **UI Engine** | <img src="https://skillicons.dev/icons?i=compose,xml" /> `Material 3` • `Animations` |
+| **Async & Data** | `Coroutines` • `Flow` • `Hilt (DI)` • `Retrofit` • `JUnit` |
+| **Environment** | <img src="https://skillicons.dev/icons?i=git,github,androidstudio" /> |
 
 ---
 
-### 📱 Featured Projects
+### 📱 Engineering Case Studies
 
-#### 💎 [Exchange Crypto App](https://github.com/ebrahim-android/exchange-crypto)
-- **Concept:** Production-style app for real-time crypto tracking.
-- **Tech:** MVVM, Retrofit, Coroutines, and Hilt.
+#### 💠 [Exchange Crypto](https://github.com/ebrahim-android/exchange-crypto) 
+> **Status:** `Production-Ready` | **Stack:** `Kotlin` `MVVM` `Hilt`
+App for high-frequency crypto monitoring. Implements robust error handling and reactive data streams.
 
-#### 🧮 [CalcX - Scientific Calculator](https://github.com/ebrahim-android/CalcX)
-- **Concept:** High-precision logic with a professional Compose UI.
-- **Tech:** Jetpack Compose & MVC Architecture.
+#### 🧮 [CalcX Calculator](https://github.com/ebrahim-android/CalcX)
+> **Status:** `In Development` | **Stack:** `Compose` `MVC` `Custom Engine`
+Focuses on UI state management and complex mathematical evaluation.
 
 ---
 
-### 📊 Motivation Stats
+### 📈 Motivation & Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-android&theme=radical&hide_border=true&stroke=0077B5&ring=0077B5&fire=0077B5" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebrahim-android&theme=radical&hide_border=true&stroke=84A6D1&ring=84A6D1&fire=84A6D1" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1026&height=120&section=header&text=MOTIVATED%20DEVELOPER%20⚡&fontSize=40&animation=fadeIn&fontColor=84A6D1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1026&height=100&section=header&text=I%20NEED%20MORE%20POWER%20⚡&fontSize=35&animation=fadeIn&fontColor=84A6D1" width="100%" />
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> — <b>Cory House</b>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
