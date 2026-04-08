@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Building%20with%20Purpose%20🚀&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=180&section=header&text=Building%20with%20Purpose%20🚀&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
