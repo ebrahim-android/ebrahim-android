@@ -8,6 +8,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1A2B59&height=180&section=header&text=Building%20with%20Precision%20⚔️&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=84A6D1" width="100%" />
 </p>
 
+<!-- 🔹 Línea 1 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=84A6D1&height=2" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ebrahim-android&color=84A6D1&style=for-the-badge&label=VISITORS" alt="views" />
   <a href="https://linkedin.com/in/ebrahim-santana-75a188301">
@@ -37,7 +42,10 @@
   </tr>
 </table>
 
----
+<!-- 🔹 Línea 2 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=84A6D1&height=2" width="100%"/>
+</p>
 
 ### 🛡️ Tech Armory
 
@@ -49,7 +57,10 @@
 | **Async & Data** | `Coroutines` • `Flow` • `Hilt (DI)` • `Retrofit` • `JUnit` |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,androidstudio" /> |
 
----
+<!-- 🔹 Línea 3 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=84A6D1&height=2" width="100%"/>
+</p>
 
 ### 📱 Engineering Case Studies
 
@@ -61,7 +72,10 @@ Real-time crypto monitoring app using reactive streams (Flow) and structured err
 > **Status:** `In Development` | **Stack:** `Compose` `MVC` `Custom Engine`  
 Focused on advanced state management and custom mathematical evaluation logic.
 
----
+<!-- 🔹 Línea 4 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=84A6D1&height=2" width="100%"/>
+</p>
 
 ### 📈 Motivation & Activity
 
