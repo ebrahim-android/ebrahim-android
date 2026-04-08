@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLzz8CXT357ob/giphy.gif" width="28px"> Ebrahim Santana | Android Software Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84A6D1&width=600&lines=Motivation+is+the+key+to+perfection...;Specialized+in+Android+Engineering;Kotlin+Expert+|+Jetpack+Compose+Advocate" alt="Typing Text Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84A6D1&width=600&lines=Discipline+drives+precision...;Android+Engineering+Specialist;Kotlin+%7C+Jetpack+Compose" alt="Typing Text Effect" />
 </p>
 
 <p align="center">
@@ -23,11 +23,12 @@
   <tr>
     <td width="75%" valign="top">
       <p><i>"Power controls everything. And without strength, you cannot protect anything."</i> 🗡️</p>
-      <p>Focused on <b>Android Software Architecture</b>. I specialize in building robust, maintainable, and high-performance mobile systems using modern development patterns.</p>
+      <p>Focused on <b>Android Software Architecture</b>. I build maintainable and scalable mobile applications using clean patterns, reactive data flows, and strong separation of concerns.</p>
       <ul>
-        <li>⚡ <b>Current Focus:</b> High-precision logic in <a href="https://github.com/ebrahim-android/CalcX">CalcX Project</a>.</li>
-        <li>🛡️ <b>Architecture:</b> Deeply committed to <b>Clean Architecture</b> & <b>SOLID</b> principles.</li>
+        <li>⚡ <b>Current Focus:</b> High-precision logic and architecture in <a href="https://github.com/ebrahim-android/CalcX">CalcX Project</a>.</li>
+        <li>🛡️ <b>Architecture:</b> Strong foundation in <b>Clean Architecture</b> and <b>SOLID</b> principles.</li>
         <li>🌍 <b>Goal:</b> Open to remote and international opportunities.</li>
+        <li>👨‍💻 <b>Background:</b> Self-taught developer focused on building production-ready Android applications.</li>
       </ul>
     </td>
     <td width="25%" align="center">
@@ -43,22 +44,22 @@
 | Category | Mastery & Tools |
 | :--- | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,java" /> |
-| **Foundations** | `MVVM` • `MVC` • `Clean Architecture` • `Modularization` |
-| **UI Engine** | <img src="https://skillicons.dev/icons?i=compose,xml" /> `Material 3` • `Animations` |
+| **Architecture** | `MVVM` • `MVC` • `Clean Architecture` • `SOLID` • `Modularization` |
+| **UI** | <img src="https://skillicons.dev/icons?i=compose,xml" /> `Material 3` • `Animations` |
 | **Async & Data** | `Coroutines` • `Flow` • `Hilt (DI)` • `Retrofit` • `JUnit` |
-| **Environment** | <img src="https://skillicons.dev/icons?i=git,github,androidstudio" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,androidstudio" /> |
 
 ---
 
 ### 📱 Engineering Case Studies
 
 #### 💠 [Exchange Crypto](https://github.com/ebrahim-android/exchange-crypto) 
-> **Status:** `Production-Ready` | **Stack:** `Kotlin` `MVVM` `Hilt`
-App for high-frequency crypto monitoring. Implements robust error handling and reactive data streams.
+> **Status:** `Production-Ready` | **Stack:** `Kotlin` `MVVM` `Hilt`  
+Real-time crypto monitoring app using reactive streams (Flow) and structured error handling.
 
 #### 🧮 [CalcX Calculator](https://github.com/ebrahim-android/CalcX)
-> **Status:** `In Development` | **Stack:** `Compose` `MVC` `Custom Engine`
-Focuses on UI state management and complex mathematical evaluation.
+> **Status:** `In Development` | **Stack:** `Compose` `MVC` `Custom Engine`  
+Focused on advanced state management and custom mathematical evaluation logic.
 
 ---
 
@@ -69,7 +70,7 @@ Focuses on UI state management and complex mathematical evaluation.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1026&height=100&section=header&text=I%20NEED%20MORE%20POWER%20⚡&fontSize=35&animation=fadeIn&fontColor=84A6D1" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1026&height=100&section=header&text=Driven%20by%20Precision%20⚡&fontSize=35&animation=fadeIn&fontColor=84A6D1" width="100%" />
 </p>
 
 <p align="center">
