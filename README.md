@@ -28,16 +28,17 @@
   <tr>
     <td width="75%" valign="top">
       <p><i>"Power controls everything. And without strength, you cannot protect anything."</i> 🗡️</p>
-      <p>Focused on <b>Android Software Architecture</b>. I build maintainable and scalable mobile applications using clean patterns, reactive data flows, and strong separation of concerns.</p>
+      <p>Android developer focused on <b>software architecture</b> and building maintainable, scalable mobile applications. I work with clean patterns, reactive data flows, and strong separation of concerns to create reliable and production-ready systems.</p>
+      <p>I started as a self-taught developer and have been consistently refining my skills through real-world projects, with a strong focus on code quality, structure, and long-term maintainability.</p>
       <ul>
-        <li>⚡ <b>Current Focus:</b> High-precision logic and architecture in <a href="https://github.com/ebrahim-android/CalcX">CalcX Project</a>.</li>
-        <li>🛡️ <b>Architecture:</b> Strong foundation in <b>Clean Architecture</b> and <b>SOLID</b> principles.</li>
-        <li>🌍 <b>Goal:</b> Open to remote and international opportunities.</li>
-        <li>👨‍💻 <b>Background:</b> Self-taught developer focused on building production-ready Android applications.</li>
+        <li>⚡ <b>Current Focus:</b> Designing high-precision logic and architecture in <a href="https://github.com/ebrahim-android/CalcX">CalcX Project</a>.</li>
+        <li>🛡️ <b>Architecture:</b> Strong foundation in <b>Clean Architecture</b>, <b>SOLID</b>, and modular design.</li>
+        <li>🧠 <b>Mindset:</b> Continuous improvement, problem-solving, and writing code that scales.</li>
+        <li>🌍 <b>Goal:</b> Contributing to impactful products in remote and international environments.</li>
       </ul>
     </td>
-    <td width="25%" align="center">
-      <img src="assets/vergil.gif" width="200px" style="border-radius: 15px; border: 2px solid #84A6D1; box-shadow: 0px 0px 15px rgba(132, 166, 209, 0.4);"/>
+    <td width="25%" align="center" valign="middle">
+      <img src="assets/vergil.gif" width="280px" style="border-radius: 15px; border: 2px solid #84A6D1; box-shadow: 0px 0px 15px rgba(132, 166, 209, 0.4);"/>
     </td>
   </tr>
 </table>
