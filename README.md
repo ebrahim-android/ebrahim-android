@@ -38,7 +38,7 @@
       </ul>
     </td>
     <td width="25%" align="center" valign="middle">
-      <img src="assets/vergil.gif" width="280px" style="border-radius: 15px; border: 2px solid #84A6D1; box-shadow: 0px 0px 15px rgba(132, 166, 209, 0.4);"/>
+      <img src="assets/vergil.gif" width="260px" style="border-radius: 15px; border: 2px solid #84A6D1; box-shadow: 0px 0px 15px rgba(132, 166, 209, 0.4);"/>
     </td>
   </tr>
 </table>
