@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLzz8CXT357ob/giphy.gif" width="28px"> Ebrahim Santana | Android Software Engineer
+# <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="24px"> Ebrahim Santana | Android Software Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84A6D1&width=600&lines=Discipline+drives+precision...;Android+Engineering+Specialist;Kotlin+%7C+Jetpack+Compose" alt="Typing Text Effect" />
