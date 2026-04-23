@@ -89,5 +89,27 @@ Focused on advanced state management and custom mathematical evaluation logic.
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=84A6D1&height=2" width="100%"/>
+</p>
+
+### 😅 Dev Moment
+
+<p align="center">
+  <i>When the code finally works...</i>
+</p>
+
+<p align="center">
+  <img src=https://media1.tenor.com/m/a1DUklVhVZcAAAAd/devil-may-cry-vergil.gif width="320px"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=84A6D1&height=2" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>“Code is like humor. When you have to explain it, it's bad.”</sub>
+</p>
+
+<p align="center">
+  <sub>— Ebrahim Santana ⚔️</sub>
 </p>
