@@ -92,7 +92,7 @@ Focused on advanced state management and custom mathematical evaluation logic.
   <img src="https://capsule-render.vercel.app/api?type=rect&color=84A6D1&height=2" width="100%"/>
 </p>
 
-### 😅 Dev Moment
+### 🕶️ Dev Moment
 
 <p align="center">
   <i>When the code finally works...</i>
@@ -107,7 +107,7 @@ Focused on advanced state management and custom mathematical evaluation logic.
 </p>
 
 <p align="center">
-  <sub>“Code is like humor. When you have to explain it, it's bad.”</sub>
+  <i>“Code is like humor. When you have to explain it, it's bad.”</i>
 </p>
 
 <p align="center">
